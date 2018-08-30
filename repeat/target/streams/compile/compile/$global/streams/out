@@ -1,0 +1,2 @@
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/RepeatCA1/repeat/app/models/Client.java:16:1: incompatible types: int cannot be converted to java.lang.Long[0m
+[0m[[0m[31merror[0m] [0m[0mprivate Long id=1;[0m

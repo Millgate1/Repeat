@@ -1,0 +1,4 @@
+insert into job (id,name,description,company,location) values ( 1,'Software Engineer','	If you can do the beep-boops on the computer, we want you.', 'Tickle Me Management', 'Dublin 2' );
+insert into job (id,name,description,company,location) values ( 1,'Fine Dinning Waiter','Free cake at lunch', 'Hungry Park', 'Dublin 12' );
+insert into job (id,name,description,company,location) values ( 1,'Deputy General Manager','Do the work, get the money', 'Happy Hotels', 'Sligo City ' );
+insert into job (id,name,description,company,location) values ( 1,'Accounts Assistant','Work and we will pay', 'Believe Consultancy', 'Dublin 1' );
